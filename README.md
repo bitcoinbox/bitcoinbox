@@ -20,9 +20,17 @@ I run [IslandLabs](https://islandlabs.studio), a premium web studio. We build cu
 websites for clients, with real attention to type, motion, and performance. Happy to share work
 if you ask.
 
+## Video
+
+I build short-form social video in code: a script-first pipeline that generates ElevenLabs
+voiceover, fits the cut to the voice, composites and captions scenes with FFmpeg + Playwright,
+ducks a music bed under the VO, and runs an automated QA pass that scores every render (loudness,
+sync, black/freeze frames, visual variety) before it ships. I also run a Telegram bot that turns
+links into GIF or sound-on clips with yt-dlp + FFmpeg.
+
 ## Tools
 
 Python, TypeScript, FastAPI, Fastify, Next.js, React, Postgres, SQLite, Redis, the Anthropic API,
-Chroma, Docker, Railway, Vercel.
+Chroma, FFmpeg, ElevenLabs, Playwright, yt-dlp, Docker, Railway, Vercel.
 
 Still learning. More at [islandlabs.studio](https://islandlabs.studio).
